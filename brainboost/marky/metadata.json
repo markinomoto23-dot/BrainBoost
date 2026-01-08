@@ -1,0 +1,5 @@
+{
+  "name": "BrainBoost",
+  "description": "A cognitive training application combining game-like mechanics with research-informed activities to improve working memory, attention, and processing speed.",
+  "requestFramePermissions": []
+}
